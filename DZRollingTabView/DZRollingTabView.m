@@ -7,7 +7,7 @@
 //
 
 #import "DZRollingTabView.h"
-#import <Masonry.h>
+#import "Masonry.h"
 
 static CGFloat LineHeight = 1.0;
 static NSInteger BaseTag = 100;
