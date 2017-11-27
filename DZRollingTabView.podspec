@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'DZRollingTabView'
-s.version      = '1.0.0'
+s.version      = '1.0.1'
 s.summary      = 'rolling tab view'
 s.homepage     = 'https://github.com/DongZhiChen/DZRollingTabViewDome.git'
 s.license= { :type => "MIT", :file => "LICENSE" }
